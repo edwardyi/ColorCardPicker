@@ -1,2 +1,0 @@
-# ColorCardPicker
-Created with CodeSandbox
