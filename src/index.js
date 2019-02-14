@@ -68,6 +68,7 @@ class App extends Component {
               defaultValue={this.state.txtSetting}
               onChange={this.onTxtChange}
               onBlur={this.onTxtChange}
+              onKeyUp={this.onTxtChange}
             />
           </div>
           <div className="col-sm-8">
